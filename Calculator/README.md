@@ -17,7 +17,7 @@ This is a web application that allows users to perform simple arithmetic calcula
 
 ## Installation
 
-1. Download the source code from the GitHub repository: `https://github.com/yourusername/simple-calculator`
+1. Download the source code from the GitHub repository: `https://github.com/abitewaddisu/simple-calculator`
 2. Extract the contents of the ZIP file to a directory of your choice.
 3. Open the command prompt (Windows) or terminal (Mac/Linux) and navigate to the directory where you extracted the files.
 4. Run the following command to build the WAR file:
