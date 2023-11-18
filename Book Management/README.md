@@ -1,4 +1,3 @@
-# Jakarta-Project-Collection
 # Book Management System
 
 The Book Management System is a web application built using JSP, HTML, Java Servlets, PostgreSQL database, and Tomcat server. It provides simple CRUD (Create, Read, Update, Delete) operations for managing books. Users can add new books, view existing books, update book details, and delete books from the system.
@@ -38,7 +37,5 @@ To run the Book Management System:
 4. Build the project using your preferred Java IDE or build tool.
 5. Deploy the generated WAR file to the Tomcat server.
 6. Start the Tomcat server and access the application through the provided URL.
-
-## Project Structure
 
 
